@@ -7,7 +7,13 @@ PUT(Poznan University of Technology) Solar Dynamics is student organization that
 
 🌈 Activities - We are taking part in various events such as solar vehicles competitions, but also we are part of huge students community on Poznan University of Technology and support honourable ideas such as blood donations organized by us and NZS organization on university. We provide our students with many opportunities to learn and support them in their studies by providing equipment and tools, as well as knowledge of more experienced members of organization.
 
-:construction_worker: 
+:construction_worker: Example of previous projects:
+- ECM (Electronic control module) - is device that controls numerous electronic devices inside of car and allows us to monitor what is exactly going on with electronics as well as detect problems (Szymon Kacperek, Szymon Kwiatkowski)
+- Aerodynamics and body of car - constructed to have as little air resistance as possible (Adam Kłos), then fully made by us using laminate(Credits to Model Art for providing us opportunity to learn)
+- Roll cage - durable, made with iron bars to provide driver with safety(Jakub Wytykowski)
+  
+And many more
+
 
 
 <!--
