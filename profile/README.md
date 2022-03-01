@@ -18,8 +18,7 @@ And many more
 # Our first project - **Klara**
 Klara was made within 5 years timespan and now is object of our reasearch and tests. We also participated with this car in European Solar challange in 2021. 
 
-![](../src/Klara.JPG)
-
+<img src="../src/Klara.JPG" width=100 height="100">
 <!--
 
 **Here are some ideas to get you started:**
