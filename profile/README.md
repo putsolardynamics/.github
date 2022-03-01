@@ -3,6 +3,13 @@ PUT(Poznan University of Technology) Solar Dynamics is student organization that
 
 ## Hi there 👋
 
+🙋‍♀️ Introduction - Our organization is constructing electric vehicles which are using solar panels to collect and recharge partially our EV while driving. We are constructing our own aerodynamics, suspension and electric system. 
+
+🌈 Activities - We are taking part in various events such as solar vehicles competitions, but also we are part of huge students community on Poznan University of Technology and support honourable ideas such as blood donations organized by us and NZS organization on university. We provide our students with many opportunities to learn and support them in their studies by providing equipment and tools, as well as knowledge of more experienced members of organization.
+
+:construction_worker: 
+
+
 <!--
 
 **Here are some ideas to get you started:**
