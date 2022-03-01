@@ -18,7 +18,9 @@ And many more
 # Our first project - **Klara**
 Klara was made within 5 years timespan and now is object of our reasearch and tests. We also participated with this car in European Solar challange in 2021. 
 
-![Klara in Blegium](./profile/src/Klara.jpg)
+![Klara in Blegium](https://github.com/putsolardynamics/.github/blob/main/profile/src/Klara.jpg)
+
+
 <!--
 
 **Here are some ideas to get you started:**
